@@ -1,12 +1,12 @@
 {
-  "name": "nodejs-basic",
+  "name": "nodejs-server-example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Example of raw node.js server",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Bondo Pangaji",
+  "license": "MIT"
 }
